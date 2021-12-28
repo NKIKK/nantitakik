@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nantitakik/static/css/main.0bf1f7dd.css",
+    "main.css": "/nantitakik/static/css/main.c913e8dc.css",
     "main.js": "/nantitakik/static/js/main.58207f15.js",
     "static/media/nkikk.png": "/nantitakik/static/media/nkikk.310b36adf8afa396f6d4.png",
     "static/media/exigent1.png": "/nantitakik/static/media/exigent1.dd1d5135d462c53c3554.png",
@@ -25,11 +25,11 @@
     "index.html": "/nantitakik/index.html",
     "static/media/mail.svg": "/nantitakik/static/media/mail.198fab0a39925188fbe75144ed50164b.svg",
     "static/media/line_education.svg": "/nantitakik/static/media/line_education.fa5294a3e15bc05f916881728f939a69.svg",
-    "main.0bf1f7dd.css.map": "/nantitakik/static/css/main.0bf1f7dd.css.map",
+    "main.c913e8dc.css.map": "/nantitakik/static/css/main.c913e8dc.css.map",
     "main.58207f15.js.map": "/nantitakik/static/js/main.58207f15.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bf1f7dd.css",
+    "static/css/main.c913e8dc.css",
     "static/js/main.58207f15.js"
   ]
 }
